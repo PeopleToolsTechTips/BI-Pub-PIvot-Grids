@@ -14,11 +14,12 @@ YouTube demo: https://youtu.be/TBD
 * PeopleToolsTechTips@Gmail.com
 
 
-This file contains all the objects referenced in the video and document.
+This repository contains all the objects referenced in the video and document.
 
-Walk Through PDF
-PeopleTools Project
-  * This contains all the components, pages, BI Pub report definitions, records and PeopleCode used in the demonstration.
-  * The target database must be minimal 8.58 PeopleTools
-Sample XML Files
-Sample RTF Templates
+* Walk Through PDF
+* PeopleTools Project
+  ** This contains all the components, pages, BI Pub report definitions, records and PeopleCode used in the demonstration.
+  ** The target database must be minimal 8.58 PeopleTools
+
+* Sample XML Files
+* Sample RTF Templates
