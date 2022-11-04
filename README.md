@@ -18,8 +18,8 @@ This repository contains all the objects referenced in the video and document.
 
 * Walk Through PDF
 * PeopleTools Project
-  ** This contains all the components, pages, BI Pub report definitions, records and PeopleCode used in the demonstration.
-  ** The target database must be minimal 8.58 PeopleTools
+  * This contains all the components, pages, BI Pub report definitions, records and PeopleCode used in the demonstration.
+  * The target database must be minimal 8.58 PeopleTools
 
 * Sample XML Files
 * Sample RTF Templates
