@@ -7,7 +7,7 @@ At design time, we don’t always know how many rows and columns a table will ha
 
 Walkthrough Documentation: https://peopletoolstechtips.com/TBD
 
-YouTube demo: https://youtu.be/TBD
+YouTube demo: https://youtu.be/bGshUaUyssI
 
 ### Contact:  
 * randy@peopletoolstechtips.com  
