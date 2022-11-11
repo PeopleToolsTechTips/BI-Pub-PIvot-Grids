@@ -5,7 +5,7 @@ At design time, we don’t always know how many rows and columns a table will ha
 * Randy Groncki	2022-11-04
 
 
-Walkthrough Documentation: https://peopletoolstechtips.com/TBD
+Walkthrough Documentation: https://peopletoolstechtips.com/bi-pubisher-pivot-tables/
 
 YouTube demo: https://youtu.be/bGshUaUyssI
 
